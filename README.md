@@ -2,5 +2,8 @@
 
 
 ## Resources
-- Omer Sakarya: https://github.com/arapfaik/scraping-glassdoor-selenium 
-- Ken Jee  : https://github.com/PlayingNumbers/ds_salary_proj 
+Omer Sakarya: https://github.com/arapfaik/scraping-glassdoor-selenium 
+
+Ken Jee  : https://github.com/PlayingNumbers/ds_salary_proj 
+
+https://stackoverflow.com
